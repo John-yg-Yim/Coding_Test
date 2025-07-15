@@ -18,3 +18,8 @@ Each problem will be placed in its own folder named as follows:
 - `Q{number}_{YYYYMMDD}`: Question number in order of appearance (e.g., `Q1_20250620`, `Q2_20250623`, ...)
 - `{problem name}.md`: Problem description in Markdown
 - `{username}_{name of problem}.py`: Solution file, prefixed with your GitHub ID
+
+---
+
+## ❗️Exceptions
+Due to final projects and other unavoidable commitments, the study group will be on hold from **July 4** and will resume once these activities are completed.
